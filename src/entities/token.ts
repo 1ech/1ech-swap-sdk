@@ -78,8 +78,8 @@ export const WETH = {
     ChainId.TESTNET,
     '0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd',
     18,
-    'WBNB',
-    'Wrapped BNB',
-    'https://www.binance.org'
+    'WECH',
+    'Wrapped ECH',
+    'https://ech.networkd'
   )
 }
